@@ -14,6 +14,12 @@ In browser:
 - to play: http://localhost:3000/
 - to see our API: http://localhost:3000/api/bar_inventory or /api/player_inventory
 
+### To play:
+
+- Use arrow keys to move player
+- Press Enter to interact with objects (both sides of the bar, the man and the piano)
+
+
 > Welcome Screen
 
 ![WELCOME SCREEN IMAGE](https://raw.githubusercontent.com/dominicfraser/CC_Third_Project/master/client/build/public/img/WelcomeScreenScreenshot.png)
